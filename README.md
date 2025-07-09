@@ -4,7 +4,7 @@ SentiSync is a real-time mood and energy tracker that helps you align your day w
 
 ---
 
-## 🚀 Why SentiSync?
+##  Why SentiSync?
 
 Most mood trackers rely on simplified inputs (like smiley faces) that don’t reflect the complexity of how we actually feel. SentiSync was built for people who want more than a check-in — they want insights.
 
@@ -16,7 +16,7 @@ SentiSync helps you:
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 - **Interactive Logging**  
   Users drag markers on a graph to track their mood and energy in real time.
@@ -32,7 +32,7 @@ SentiSync helps you:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: React Native (mobile-first)
 - **Frontend UI**: Gesture-driven charts + custom components
